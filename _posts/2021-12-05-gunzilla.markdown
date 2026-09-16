@@ -2,14 +2,34 @@
 layout: post
 title: OFF THE GRID - Gunzilla Games
 date: 2021-12-05 13:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Senior and later Lead Level Designer on OFF THE GRID at Gunzilla Games, leading the early level design team and setting up how we built levels.
 img: gunzilla-header.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Level Design]
 ---
 
-I worked as the Lead Level Designer for "[OFF THE GRID](https://playoffthegrid.com/)".
+I joined **Gunzilla Games** early in the development of *[OFF THE GRID](https://playoffthegrid.com/)* as a Senior Level Designer. When I started, the studio had two junior level designers, but not much else in place for level design.
 
-- Helped establish Gunzilla's first level design team and built out the studio's level design pipeline for OFF THE GRID.
-- Mentored junior and regular level designers during early prototyping and concepting.
-- Prototyped early level design concepts for OFF THE GRID ahead of full production.
+I ended up leading the team, setting goals, and putting rules in place for how we built levels, and was later promoted to Lead Level Designer.
+
+### My Role
+
+**Position:** Senior Level Designer, later Lead Level Designer
+**Scope:** Level prototyping, team leadership, and setting up the level design pipeline
+**Duration:** April 2021 – April 2022
+
+**Senior Level Designer:** April 2021 – October 2021
+**Lead Level Designer:** November 2021 – April 2022
+
+My responsibilities included:
+
+* Prototyping early level concepts ahead of full production
+* Setting goals for the level design team
+* Creating the rules and guidelines for building levels
+* Working with the art lead on a pipeline for our two teams
+* Helping build out the level design team
+* Mentoring the junior and regular level designers
+
+### Working with Art
+
+A big part of setting things up was working with the art lead on a pipeline we both agreed on, so our teams had a clear way of working together.
