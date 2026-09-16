@@ -14,11 +14,11 @@ Since we were a small team, I worked on a bit of everything, but mostly level de
 
 ### My Role
 
-**Position:** Level Designer & Scripter
-**Platform:** PC (Steam)
-**Engine:** Unreal Engine 3 (UDK)
-**Team Size:** 10 people
-**Duration:** 1 year in Early Access + 10 months of final development
+**Position:** Level Designer & Scripter   
+**Platform:** PC (Steam)   
+**Engine:** Unreal Engine 3
+**Team Size:** 10 people   
+**Duration:** 1 year in Early Access + 10 months of final development   
 
 My responsibilities included:
 

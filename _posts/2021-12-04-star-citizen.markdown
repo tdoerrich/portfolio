@@ -14,9 +14,9 @@ Most of my time went into designing locations, from small outposts on moons to l
 
 ### My Role
 
-**Position:** Level Designer, later Senior Level Designer
-**Scope:** Location design, CitizenCon demos, and mentoring junior designers
-**Duration:** June 2016 – March 2021
+**Position:** Level Designer, later Senior Level Designer     
+**Scope:** Location design, CitizenCon demos, and mentoring junior designers     
+**Duration:** June 2016 – March 2021    
 
 ## Locations
 

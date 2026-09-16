@@ -14,10 +14,10 @@ Before I joined, a technical artist had placed assets in the world to set the vi
 
 ### My Role
 
-**Position:** Level Designer (first hire in the role)
-**Platform:** PC (Steam), PS4
-**Engine:** CryEngine 3
-**Duration:** January 2014 – May 2016
+**Position:** Level Designer (first hire in the role)   
+**Platform:** PC (Steam), PS4   
+**Engine:** CryEngine 3   
+**Duration:** January 2014 – May 2016   
 
 My responsibilities included:
 
@@ -31,9 +31,9 @@ My responsibilities included:
 
 Early on, I set up the idea that each area should be built around a riding style:
 
-* **Trick areas** with rails, gaps, and freestyle features
-* **Speed areas** with long sight lines and terrain built for flow
-* **Technical areas** with tight spaces that need precise control
+* **Trick areas** with rails, gaps, and freestyle features   
+* **Speed areas** with long sight lines and terrain built for flow   
+* **Technical areas** with tight spaces that need precise control   
 
 This let players find the style they liked, while still giving them a reason to try the others.
 
