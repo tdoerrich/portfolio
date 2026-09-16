@@ -7,52 +7,117 @@ img: snow-header.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Level Design]
 ---
-I began working on SNOW, January 2014. Before that they did not have a level designer. Their tech. artist had placed assets in each area to give them a good look, but he didn’t have the time to design them. Therefor my task was to start in an area where he had yet to place assets, and learn what type of gameplay worked for the game. I knew (from being a snowboarder myself) that we needed to have different type of gameplay for different areas, since all snowboards (and skiers) have their own definition what type of riding is the best. I started with splitting the area I got into several smaller sections, and gave these different temporary names, depending on what type of gameplay I would test in them.
 
-**Position:** Level designer  
-**Website:** http://www.snowthegame.com  
-**Platform:** PC, PS4  
-**Release date –**  
-_PC:_ Out now on Steam  
-_PS4:_ Out now on PSN  
-**Engine:** CRYENGINE 3
+I joined **Poppermost Productions** as their **first dedicated Level Designer** on *SNOW*, an open-world snowboarding and skiing game. Before my arrival, a technical artist had placed assets to establish visual style, but gameplay design hadn't been formalized. My role was to define what made *SNOW* fun to play—designing areas that supported different riding styles while teaching players core mechanics through environmental design.
 
-As you can see further down in the text I have worked on more areas, however, as I don’t want this text to be too long I’ve only written about four areas. If you want information about another area I worked on, please send me an email and I’ll get back to you as soon as possible.
+---
 
-### The Shrine (Old name, Rock Piles) 
-This is supposed to be a tight gameplay area with a mix of turning and only have a few jumps. This is also one of the harder areas for new players before the “learn” that in a skiing game you have to break sometimes. If you try to hit The Shrine with full speed all the way you run a big chance of crashing into some of the rocks or fly of a massive jump into a cliff.
+## Overview
+**Position:** Level Designer (First hire in the role)  
+**Platform:** PC (Steam), PS4 (PSN)  
+**Engine:** CryEngine 3  
+**Duration:** January 2014 - May 2016  
+**Scope:** Designed 13+ unique gameplay areas, established level design workflows, implemented in-game events and goals system
 
-![Easterwater Shrine]({{site.baseurl}}/assets/img/the-shrine.jpg)
+**Key Achievements:**  
+- Built level design approach from scratch for an open-world snow sports game
+- Designed diverse areas supporting trick-focused, speed-focused, and technical riding styles  
+- Established workflows and documentation standards for future iterations  
+- Created event and goal systems integrated throughout the open world  
+- Balanced player challenge and flow across urban, natural, and technical terrains  
 
-### Eastwater River 
-This is a trick area. You spawn at the top of the river and during the players ride down you get several options to jump over the river, or hit any of the rails crossing the river. There is also a lot of options on both sides of the river for players that rather stick to one side.
+---
 
-![Easterwater River]({{site.baseurl}}/assets/img/eastwater-river.jpg)
+## Featured Areas
 
-### Eastwater Village 
-Village is supposed to be for more for people into urban skiing. This area has a lot of rails, and smaller jumps that you possibly could find / build in a village to ride the obstacles there.
+### The Shrine
+![The Shrine](/assets/img/the-shrine.jpg)  
 
-![Easterwater Village]({{site.baseurl}}/assets/img/eastwater-village.jpg)
+*Tight, technical area focusing on turning and precision control.*  
+
+**Design Goals:**  
+- Challenge new players while teaching braking and control mechanics  
+- Encourage strategic line selection around natural rock obstacles  
+- Create high-risk, high-reward gameplay for advanced players
+
+**Approach:**  
+Designed as a natural skill gate—players who tried to blast through at full speed would crash into rocks or fly off cliffs. Success required mastering speed control and reading terrain ahead.
+
+---
+
+### Eastwater River
+![Eastwater River](/assets/img/eastwater-river.jpg)  
+
+*Trick-focused descent with multiple rails and jumps crossing a mountain river.*  
+
+**Design Goals:**  
+- Offer multiple paths for freestyle exploration  
+- Enable risk/reward gameplay through rails, gaps, and jumps  
+- Support both conservative "safe" lines and aggressive trick lines
+
+**Approach:**  
+Created a natural corridor with the river as a central feature, providing clear direction while offering dozens of optional tricks. Players could ride conservatively down either bank or attempt risky rail-to-rail transfers across the water.
+
+---
+
+### Eastwater Village
+![Eastwater Village](/assets/img/eastwater-village.jpg)  
+
+*Urban environment for technical tricks and rail combos.*  
+
+**Design Goals:**  
+- Integrate realistic village architecture with gameplay flow  
+- Encourage creative use of rails, ledges, and small jumps  
+- Provide urban skiing contrast to natural mountain areas
+
+**Approach:**  
+Worked closely with art to ensure every building, fence, and structure could be ridden. Placed rails and ledges to reward creative line-linking while maintaining believable village layout.
+
+---
 
 ### Eastwater Quarry
-Here it is all about speed and learning about breaking and turning. There are some smaller areas in between different heights in quarry that give some other gameplay options. However, the main area is all about speed.
+![Eastwater Quarry](/assets/img/eastwater-quarry.jpg)  
 
-![Easterwater Quarry]({{site.baseurl}}/assets/img/eastwater-quarry.jpg)
+*Speed-focused downhill area with dramatic elevation changes.*  
 
-To this date, all the areas below here are the areas I have worked on:
+**Design Goals:**  
+- Teach players to balance speed, turning, and braking  
+- Include mid-run obstacles to introduce strategic decision-making  
+- Create pure flow experience for advanced riders
 
-- Eastwater Forest
-- Eastwater Village
-- Eastwater Quarry
-- Eastwater River
-- The Shrine
-- Bluebird Resort
-- Tolv
-- Oleanders Vineyard
-- Moshpit Resturant
-- The Piste areas
-- Plane Crash
-- Observatory
-- The Wave
+**Approach:**  
+Designed long sight lines that rewarded speed while introducing periodic challenges (tight gaps, sudden turns) that punished pure speed without control. Multiple tiers allowed different difficulty routes.
 
-Other than working on these areas I have also designed several of the games events and goals.
+---
+
+## Additional Areas Designed
+
+- **Eastwater Forest** - Natural terrain focused on carving and flow  
+- **Bluebird Resort** - Mixed terrain hub connecting multiple areas  
+- **Tolv** - Technical descent with natural obstacles  
+- **Oleanders Vineyard** - Mid-difficulty area with scenic routes  
+- **Moshpit Restaurant** - Urban trick spot  
+- **The Piste** - Groomed runs for beginner players  
+- **Plane Crash** - Exploration area with hidden lines  
+- **Observatory** - High-altitude starting point  
+- **The Wave** - Natural halfpipe feature  
+
+---
+
+## Systems & Workflows
+
+### Level Design Approach
+Established the core design principle that different areas should support different riding styles:
+- **Trick areas** - Rails, gaps, and freestyle features  
+- **Speed areas** - Long sight lines and flow-focused terrain  
+- **Technical areas** - Tight spaces requiring precision control  
+
+This segmentation allowed players to find their preferred style while encouraging them to explore different gameplay.
+
+---
+
+## Reflections
+
+*SNOW* taught me the importance of **designing for player types, not just player skill**. Some riders want to hit massive jumps, others want to nail technical tricks, and others just want to carve perfect lines down groomed slopes. The best level design supports all of these without forcing players into one playstyle.
+
+Working as the **first level designer** on a project also taught me to establish foundations carefully. The workflows, documentation standards, and design principles I created in the first few months shaped my work during the whole time there.

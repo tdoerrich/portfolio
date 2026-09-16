@@ -7,43 +7,64 @@ img: epigenesis-header.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Level Design]
 ---
-Epigenesis was the first commercially released project that I worked on. I was part of Dead Shark Triplepunch (our company name of choice) from the beginning and started the company together with 9 other talented members to finish Epigenesis after we got first price at Epic Games´ Makes Something Unreal Live 2013 (MSUL2013). Epigenesis ended up not only winning MSUL2013, but also Swedish Game A wards, Game of the year as well as 50 000kr in Game Concept Challenge Karlshamn.
 
-**Position:** Game / Level designer, scripter   
-**Website:** No longer have a live website   
-**Platform:** PC   
-**Release date:** Out now on Steam  
-**Engine:** Unreal Engine 3, started with UDK
+**Epigenesis** is an arena sports game developed by **Dead Shark Triplepunch**, a small indie studio I co-founded with 9 other team members. The project began after winning **Epic Games’ Make Something Unreal Live 2013 (MSUL2013)**, and went on to win **Swedish Game Awards – Game of the Year** and the **Game Concept Challenge (50,000 SEK)**.  
 
-My main role during the development of Epigenesis was Level Designer, however, as we were a small team I was also part of the gameplay design as well as doing some of the scripting in UnrealScript.
+Working in a compact indie team, I contributed across multiple areas, focusing on **level design**, while also helping with **gameplay mechanics** and **UnrealScript scripting**. This experience taught me how to iterate quickly, solve problems creatively, and take ownership of levels from concept to final release.
 
-As the main level designer I was part of all phases during our level design from concept to finished level. This included tasks as blocking-out, all stages of different lighting, fixing level bugs and make sure to fix any problems that would occur during playtests. For external playtests I used the built in Unreal Engine 3 level analytics tool.
+## Overview
+**Position:** Level Designer & Scripter  
+**Platform:** PC (Steam)  
+**Engine:** Unreal Engine 3 (UDK)  
+**Duration:** 1 year Early Access + 10 months final development  
+**Team Size:** 10 people  
+**Scope:** Designed core arenas, contributed to gameplay mechanics, implemented scripting, ran playtests, iterated levels  
 
-We worked on Epigenesis for 1 year before we released the title on Steam as an Early Access title, and we worked on it for another 10 months before we finally released the full game on Steam in August 2014.
+**Key Contributions:**  
+- Designed and implemented main arenas, guiding layout, flow, and player experience  
+- Participated in gameplay design discussions and problem-solving with the team  
+- Implemented scripting for arena events and player interactions  
+- Used UE3 analytics tools to collect and act on playtest feedback  
+
 
 ## The main levels I built were:
 
+## Main Arenas Designed
+
 ### Gadget Arena
-![Gadget Arena]({{site.baseurl}}/assets/img/gadget-arena.jpg)
+![Gadget Arena](/assets/img/gadget-arena.jpg)
+
+- Full design ownership from concept to polish  
+- Managed level layout, lighting, and player flow  
+- Integrated gameplay mechanics and obstacles to create engaging matches  
 
 ### Omani Arena
-![Omani Arena]({{site.baseurl}}/assets/img/omani-arena.jpg)
+![Omani Arena](/assets/img/omani-arena.jpg)
+
+- Designed layout with focus on competitive play and skill expression  
+- Iterated based on internal and external playtests  
 
 ### Mixed Arena
-**I built Mixed Arena together with Joakim Westblad**
-![Mixed Arena]({{site.baseurl}}/assets/img/mixed-arena.jpg)
+![Mixed Arena](/assets/img/mixed-arena.jpg)  
 
----
+- Co-designed with Joakim Westblad  
+- Collaborated on layout, mechanics, and balance of gameplay systems  
 
-For Gran Arena and Argos Arena the design were created by Joakim Westblad, I was the second eyes and also part of the testing for these levels.
+
+## Supporting Arenas
+For **Gran Arena** and **Argos Arena**, design was led by Joakim Westblad. I contributed as **secondary designer and playtester**, providing feedback and supporting iteration to maintain consistency across the game.  
 
 ### Argos Arena
-![Argos Arena]({{site.baseurl}}/assets/img/argos-arena.jpg)
+![Argos Arena](/assets/img/argos-arena.jpg)
 
-### Gran Arean
-![Gran Arena]({{site.baseurl}}/assets/img/gran-arena.jpg)
+### Gran Arena
+![Gran Arena](/assets/img/gran-arena.jpg)
 
-## Gameplay
-The lead designer during the project was Michael Levall, but I together with other parts of the team discussed and came up with the gameplay for the game. When we needed to do changes to the games mechanics we were all part of these discussions and how to find solutions whenever we hit a problem. I also did some of the scripting for parts of the game.
 
-Launch Trailer
+## Gameplay & Systems
+- Collaborated with lead designer Michael Levall on core gameplay mechanics  
+- Took part in problem-solving and iterative design discussions with the team  
+- Implemented UnrealScript logic for arena interactions and playtest data tracking  
+- Helped refine player experience across all arenas using analytics and feedback  
+
+Epigenesis highlights my experience **leading level design in a small indie team**, contributing across multiple disciplines, and shipping a polished game under tight resources.  

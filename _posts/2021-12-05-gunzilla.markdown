@@ -10,6 +10,6 @@ tags: [Level Design]
 
 I worked as the Lead Level Designer for "[OFF THE GRID](https://playoffthegrid.com/)".
 
-During my time at Gunzilla I helped build the first level design team, built the level design pipeline, and mentored several of our then junior and regular level designers. I 
-was only part of the development during the very early stages while we where still prototyping different ideas, and level designs which none of them was planned for the final 
-game.
+- Helped establish Gunzilla's first level design team and built out the studio's level design pipeline for OFF THE GRID.
+- Mentored junior and regular level designers during early prototyping and concepting.
+- Prototyped early level design concepts for OFF THE GRID ahead of full production.

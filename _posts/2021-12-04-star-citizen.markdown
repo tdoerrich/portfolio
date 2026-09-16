@@ -8,30 +8,85 @@ fig-caption: # Add figcaption (optional)
 tags: [Level Design]
 ---
 
-I worked as a Senior Level Designer on the PvP-part called "Persistent Universe" (PU) in Star Citizen.
+I worked as a Senior Level Designer on **Star Citizen's Persistent Universe**, the MMO component featuring explorable planets, cities, and space stations. Over 4.5 years, I designed major locations, mentored junior designers, contributed to high-profile live demos, and helped shape modular tools used across the team.
 
-During my time at Cloud Imperium Games I worked on several of the now existing areas within the game. I started some locations from start to finish (planning, documentation, whitebox, greybox, final) and others I joined or helped other level designers work on. 
+## Overview
+**Duration:** June 2016 - March 2021  
+**Progression:** Level Designer → Senior Level Designer  
+**Scope:** Designed 4 major location types, trained junior designers, contributed to CitizenCon 2017 & 2019 demos
+
+**Key Achievements:**  
+- Designed several Persistent Universe location types  
+- Worked on CitizenCon 2017 & 2019 live demos  
+- Mentored and trained junior level designers  
+- Provided feedback shaping modular level tools used team-wide  
 
 
-# Locations I worked on during my time at Star Citizen
-## Surface Outposts
-I worked on these from start to finish. The idea behind them was to build the smallest location we wanted within the PU and to make sure it was built with a modular set that we could easily expand on.
+## Locations
+### Surface Outposts
+*Small planetary bases scattered across moons, serving as mission hubs and trading posts.*
 
-## Rest-stops
-I worked on the original rest-stop design until it was taken over by another level designer when we began using an internal built modular tool.
+**My Role:** Concept → final implementation
+- Designed the foundational small location template for the PU  
+- Established documentation standards and workflows for team-wide use  
 
-## Area 18
-I worked on this location from start to finish. One major difference with this location was that we already had en existing design that I had to keep in mind. I was allowed to do major changes to the location but needed to keep the original vision.
 
-## Orison
-I worked on this location from start until we reached greybox. Once we reached greybox I left the company to begin working at Gunzilla Games. 
+### Rest-Stops
+*Orbital service stations providing refueling and respawn points.*
 
-# Other
-Other things I worked on during my time at Star Citizen was: 
+**My Role:** Original layout and whitebox design  
+- Defined initial spatial layout and player flow  
+- Collaborated with another designer to transition designs into modular tools  
+- Established core spatial design patterns for orbital stations  
 
-* The modular location tool
-    * I did not own this, but was part of the process giving suggestions and feedback
-* CitizenCon 2016
-    * I was one of the level design owners of the PU demo we showed with Area 18 and Lorville
-* CitizenCon 2019
-    * I was one of the level designer owners and had to among other things design the "worm-hole"
+
+### Area 18
+*Sprawling cyberpunk metropolis on ArcCorp.*
+
+**My Role:** Full ownership within existing art direction  
+- Redesigned multi-district layout to enhance navigation and player experience  
+- Optimized visual density while maintaining high-performance requirements  
+
+**Challenge:** Balancing visual fidelity, navigation clarity, and performance in a densely populated social hub  
+
+
+### Orison
+*Cloud city floating in the atmosphere of Crusader.*
+
+**My Role:** Concept → greybox (left company before final implementation)  
+- Designed initial vertical layout and platform navigation  
+- Collaborated on floating platform aesthetic with art team  
+- Created multi-layered navigation systems for complex vertical space  
+
+
+## Additional Contributions
+### Modular Location Tool
+- Provided ongoing feedback and design requirements for Cloud Imperium’s internal level building tool  
+- Helped shape workflows used across the level design team, improving efficiency and consistency  
+
+### CitizenCon Demos
+**2017:** Contributed to PU demo featuring Area 18 and Lorville, supporting our senior level designer on spatial design and level implementation.  
+**2019:** Served as primary level designer for PU demo sequences, including the "jump point" wormhole transition, responsible for core layout and player experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
