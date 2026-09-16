@@ -1,6 +1,6 @@
 title: Tobias Dörrich (formerly Johansson) - Level Designer
 description: > # this means to ignore newlines until "baseurl:"
-  Lead Level Designer at Gunzilla Games
+  Lead Level Designer with experience on Star Citizen, OFF THE GRID, Dune: Awakening, Exoborne, and SNOW
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "https://tobiasdoerrich.com/" # the subpath of your site, e.g. /blog
@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Tobias Dörrich (formerly Johansson)
 author-img: tobias-profile.png 
-about-author: I’m a game developer and level designer with experience working across AAA and independent projects, from early concept and prototyping through to production and release. Over the years I’ve worked in senior and lead level design roles on projects including Star Citizen, OFF THE GRID, Dune Awakening, Exoborne, and SNOW. I’m currently based near Munich, Germany, and am looking for my next opportunity in game development or a related field.
+about-author: I’m a game developer and level designer with experience working across AAA and independent projects, from early concept and prototyping through to production and release. Over the years I’ve worked in senior and lead level design roles on projects including Star Citizen, OFF THE GRID, Dune Awakening, and Exoborne, and before that as a level designer on SNOW. I’m currently based near Munich, Germany, and am looking for my next opportunity in game development or a related field.
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: TobiasDev # add your Github handle

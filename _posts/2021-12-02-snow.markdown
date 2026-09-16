@@ -2,122 +2,91 @@
 layout: post
 title: SNOW - Poppermost Productions
 date: 2021-12-02 10:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: First dedicated Level Designer on SNOW, an open-world snowboarding and skiing game, designing over a dozen areas built around different riding styles.
 img: snow-header.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Level Design]
 ---
 
-I joined **Poppermost Productions** as their **first dedicated Level Designer** on *SNOW*, an open-world snowboarding and skiing game. Before my arrival, a technical artist had placed assets to establish visual style, but gameplay design hadn't been formalized. My role was to define what made *SNOW* fun to play—designing areas that supported different riding styles while teaching players core mechanics through environmental design.
+I joined **Poppermost Productions** as the first dedicated Level Designer on *SNOW*, an open-world snowboarding and skiing game.
 
----
+Before I joined, a technical artist had placed assets in the world to set the visual style, but nobody had worked on the gameplay side of the levels yet. My job was to figure out what made *SNOW* fun to ride, and to design areas that supported different riding styles while teaching players the core mechanics through the terrain.
 
-## Overview
-**Position:** Level Designer (First hire in the role)  
-**Platform:** PC (Steam), PS4 (PSN)  
-**Engine:** CryEngine 3  
-**Duration:** January 2014 - May 2016  
-**Scope:** Designed 13+ unique gameplay areas, established level design workflows, implemented in-game events and goals system
+### My Role
 
-**Key Achievements:**  
-- Built level design approach from scratch for an open-world snow sports game
-- Designed diverse areas supporting trick-focused, speed-focused, and technical riding styles  
-- Established workflows and documentation standards for future iterations  
-- Created event and goal systems integrated throughout the open world  
-- Balanced player challenge and flow across urban, natural, and technical terrains  
+**Position:** Level Designer (first hire in the role)
+**Platform:** PC (Steam), PS4
+**Engine:** CryEngine 3
+**Duration:** January 2014 – May 2016
 
----
+My responsibilities included:
+
+* Setting up how we approached level design on the game
+* Designing and building over a dozen areas across the open world
+* Creating the workflows and documentation for building areas
+* Implementing the in-game events and goals across the world
+* Balancing difficulty and flow between the different areas
+
+### Different Areas for Different Riding Styles
+
+Early on, I set up the idea that each area should be built around a riding style:
+
+* **Trick areas** with rails, gaps, and freestyle features
+* **Speed areas** with long sight lines and terrain built for flow
+* **Technical areas** with tight spaces that need precise control
+
+This let players find the style they liked, while still giving them a reason to try the others.
 
 ## Featured Areas
 
 ### The Shrine
-![The Shrine](/assets/img/the-shrine.jpg)  
 
-*Tight, technical area focusing on turning and precision control.*  
+![The Shrine](/assets/img/the-shrine.jpg)
 
-**Design Goals:**  
-- Challenge new players while teaching braking and control mechanics  
-- Encourage strategic line selection around natural rock obstacles  
-- Create high-risk, high-reward gameplay for advanced players
+The Shrine is a tight, technical area built around turning and control. It was meant to challenge new players and teach them to brake, while giving better players a riskier way down.
 
-**Approach:**  
-Designed as a natural skill gate—players who tried to blast through at full speed would crash into rocks or fly off cliffs. Success required mastering speed control and reading terrain ahead.
-
----
+If you tried to go through at full speed, you would hit the rocks or go off a cliff. To get through cleanly, you had to control your speed, read the terrain ahead, and pick your line around the rocks.
 
 ### Eastwater River
-![Eastwater River](/assets/img/eastwater-river.jpg)  
 
-*Trick-focused descent with multiple rails and jumps crossing a mountain river.*  
+![Eastwater River](/assets/img/eastwater-river.jpg)
 
-**Design Goals:**  
-- Offer multiple paths for freestyle exploration  
-- Enable risk/reward gameplay through rails, gaps, and jumps  
-- Support both conservative "safe" lines and aggressive trick lines
+Eastwater River is a trick-focused run with rails and jumps crossing a mountain river.
 
-**Approach:**  
-Created a natural corridor with the river as a central feature, providing clear direction while offering dozens of optional tricks. Players could ride conservatively down either bank or attempt risky rail-to-rail transfers across the water.
-
----
+The river runs down the middle of the area and gives players a clear direction, with a lot of optional tricks along the way. You could ride safely down either bank, or try rail-to-rail transfers across the water if you wanted more of a challenge.
 
 ### Eastwater Village
-![Eastwater Village](/assets/img/eastwater-village.jpg)  
 
-*Urban environment for technical tricks and rail combos.*  
+![Eastwater Village](/assets/img/eastwater-village.jpg)
 
-**Design Goals:**  
-- Integrate realistic village architecture with gameplay flow  
-- Encourage creative use of rails, ledges, and small jumps  
-- Provide urban skiing contrast to natural mountain areas
+Eastwater Village is the town area, made for technical tricks and rail combos, and a change of pace from the mountain areas.
 
-**Approach:**  
-Worked closely with art to ensure every building, fence, and structure could be ridden. Placed rails and ledges to reward creative line-linking while maintaining believable village layout.
-
----
+I worked closely with the art team so that the buildings, fences, and other structures could be ridden. I placed the rails and ledges so players could link tricks together, while still keeping the village believable as a place.
 
 ### Eastwater Quarry
-![Eastwater Quarry](/assets/img/eastwater-quarry.jpg)  
 
-*Speed-focused downhill area with dramatic elevation changes.*  
+![Eastwater Quarry](/assets/img/eastwater-quarry.jpg)
 
-**Design Goals:**  
-- Teach players to balance speed, turning, and braking  
-- Include mid-run obstacles to introduce strategic decision-making  
-- Create pure flow experience for advanced riders
+Eastwater Quarry is a speed-focused downhill area with big elevation changes, meant to teach players to balance speed, turning, and braking.
 
-**Approach:**  
-Designed long sight lines that rewarded speed while introducing periodic challenges (tight gaps, sudden turns) that punished pure speed without control. Multiple tiers allowed different difficulty routes.
+It has long sight lines that reward going fast, but also tight gaps and sudden turns along the way, so going full speed without control would not get you far. The quarry is built on several tiers, which gave players routes of different difficulty.
 
----
+## Other Areas
 
-## Additional Areas Designed
+I also designed:
 
-- **Eastwater Forest** - Natural terrain focused on carving and flow  
-- **Bluebird Resort** - Mixed terrain hub connecting multiple areas  
-- **Tolv** - Technical descent with natural obstacles  
-- **Oleanders Vineyard** - Mid-difficulty area with scenic routes  
-- **Moshpit Restaurant** - Urban trick spot  
-- **The Piste** - Groomed runs for beginner players  
-- **Plane Crash** - Exploration area with hidden lines  
-- **Observatory** - High-altitude starting point  
-- **The Wave** - Natural halfpipe feature  
+* **Eastwater Forest** - natural terrain for carving
+* **Bluebird Resort** - a hub area connecting several other areas
+* **Tolv** - a technical descent with natural obstacles
+* **Oleanders Vineyard** - a mid-difficulty area with scenic routes
+* **Moshpit Restaurant** - an urban trick spot
+* **The Piste** - groomed runs for beginners
+* **Plane Crash** - an exploration area with hidden lines
+* **Observatory** - a high-altitude starting point
+* **The Wave** - a natural halfpipe
 
----
+## Looking Back
 
-## Systems & Workflows
+A big thing I took away from *SNOW* was designing areas around how people like to ride. Some players wanted big jumps, some wanted technical tricks, and some just wanted to carve down the slopes, so it made sense to give each of them places built for that.
 
-### Level Design Approach
-Established the core design principle that different areas should support different riding styles:
-- **Trick areas** - Rails, gaps, and freestyle features  
-- **Speed areas** - Long sight lines and flow-focused terrain  
-- **Technical areas** - Tight spaces requiring precision control  
-
-This segmentation allowed players to find their preferred style while encouraging them to explore different gameplay.
-
----
-
-## Reflections
-
-*SNOW* taught me the importance of **designing for player types, not just player skill**. Some riders want to hit massive jumps, others want to nail technical tricks, and others just want to carve perfect lines down groomed slopes. The best level design supports all of these without forcing players into one playstyle.
-
-Working as the **first level designer** on a project also taught me to establish foundations carefully. The workflows, documentation standards, and design principles I created in the first few months shaped my work during the whole time there.
+Being the first level designer on the project also meant that the workflows, documentation, and design principles I set up in the first few months shaped how I worked for the rest of my time there.
